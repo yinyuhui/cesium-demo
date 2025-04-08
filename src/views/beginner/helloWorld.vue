@@ -20,12 +20,3 @@
         })
     })
 </script>
-<style scoped>
-    #cesiumContainer {
-        width: 100vw;
-        height: 100vh;
-    }
-    :deep(.cesium-widget-credits) {
-        display: none;
-    }
-</style>
